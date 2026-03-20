@@ -1,4 +1,4 @@
-# WGPU-Engine
+# Akimo-Engine
 
 A Engine & Framework, possibly game at some point, written in [WGPU] to learn more about it and comparing it to [Vulkan] :)
 
