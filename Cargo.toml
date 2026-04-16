@@ -9,7 +9,7 @@ winit = "0.28"
 wgpu = "0.17"
 toml = "0.8.2"
 serde = { version = "1.0", features = ["derive"] }
-fern = "0.6"
+fern = "0.7"
 humantime = "2.1"
 bytemuck = { version = "1.14", features = ["derive"] }
 image = "0.24"
